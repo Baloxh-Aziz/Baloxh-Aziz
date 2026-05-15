@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey there! I'm Azizullah Asad 👋
 
-<!--
-**Baloxh-Aziz/Baloxh-Aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Data Science Student | Dawood University of Engineering & Technology, Karachi
+🚀 Building projects that turn raw data into real insights
+🌱 Currently exploring Machine Learning & Data Visualization
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Work With
+
+**Languages**
+Python | C++ | HTML | CSS
+
+**Libraries**
+Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | Folium
+
+**Tools**
+Jupyter Notebook | VS Code | Git & GitHub | Streamlit
+
+---
+
+## 📂 Featured Projects
+
+🚨 [Crime Rate Prediction](https://github.com/Baloxh-Aziz/Crime-Rate-Prediction) — Machine Learning app built with Random Forest & Streamlit on 270,000+ real crime records
+
+---
+
+## 📫 Let's Connect
+
+LinkedIn: www.linkedin.com/in/azizullah-asad-203789345
+
+---
+
+💬 *"Every dataset has a story — I'm here to find it."*
