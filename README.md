@@ -1,7 +1,9 @@
 # Hey there! I'm Azizullah Asad 👋
 
 🎓 BS Data Science Student | Dawood University of Engineering & Technology, Karachi
+
 🚀 Building projects that turn raw data into real insights
+
 🌱 Currently exploring Machine Learning & Data Visualization
 
 ---
