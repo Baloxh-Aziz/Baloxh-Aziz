@@ -32,8 +32,6 @@
 
 ## 📂 Featured Projects
 
-## 📂 Featured Projects
-
 ### 🚨 [Crime Rate Prediction](https://github.com/Baloxh-Aziz/Crime-Rate-Prediction)
 Machine Learning app built with **Random Forest** & **Streamlit** on **270,000+ real crime records**.
 `Python` `Pandas` `Scikit-learn` `Streamlit`
