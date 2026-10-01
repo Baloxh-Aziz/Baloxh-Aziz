@@ -30,15 +30,19 @@
 
 ## 📂 Featured Projects
 
+## 📂 Featured Projects
+
 ### 🚨 [Crime Rate Prediction](https://github.com/Baloxh-Aziz/Crime-Rate-Prediction)
 Machine Learning app built with **Random Forest** & **Streamlit** on **270,000+ real crime records**.
 `Python` `Pandas` `Scikit-learn` `Streamlit`
 
-<!-- Naya project add karne ke liye ye template copy karein:
-### 🔹 [Project Name](https://github.com/Baloxh-Aziz/repo-name)
-Ek line mein description.
-`Tech1` `Tech2` `Tech3`
--->
+### 🔫 [Weapon Detection (YOLOv11)](https://github.com/Baloxh-Aziz/Weapon-Detection-Yolov11)
+Object detection model trained with **YOLOv11** to detect weapons, with an app for running it on images/video.
+`Python` `YOLOv11` `Computer Vision`
+
+### 🤖 [RAG Pipeline](https://github.com/Baloxh-Aziz/Rag_Pipeline)
+Retrieval-Augmented Generation app that answers questions from your own documents.
+`Python` `LLM` `RAG`
 
 ---
 
