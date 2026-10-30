@@ -48,9 +48,9 @@ Retrieval-Augmented Generation app that answers questions from your own document
 
 ## 📊 GitHub Stats
 
-![Azizullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baloxh-Aziz&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baloxh-Aziz&layout=compact&theme=tokyonight)
+![GitHub Profile Details](./profile-summary-card-output/tokyonight/0-profile-details.svg)
 
+![GitHub Stats](./profile-summary-card-output/tokyonight/3-stats.svg)
 ---
 
 ## 📫 Let's Connect
