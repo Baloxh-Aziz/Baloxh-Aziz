@@ -22,6 +22,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge)
 
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
